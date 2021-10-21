@@ -42,9 +42,10 @@
 }
 .span_dash{
     color: white;
-    animation: hoverzinho 1s;
+    animation: hoverzinho 2s;
     transition-duration: 0.8s;
     animation-iteration-count: infinite;
+    
 }
 /* .span_dash:hover{
     padding: 10px;
@@ -59,6 +60,7 @@
     }
     to{
         padding: 10px;
+        border-radius: 10px;
         background-color: white;
         color: lightcoral;
     }
